@@ -8,14 +8,14 @@ Currently, I'm focusing on **Web Development, UI/UX Design, and Full-Stack Devel
 
 ---
 
-## About Me
+## Social media
 
-* 🎓 RPL Student at **SMK Telkom Banjarbaru**
-* 💻 Interested in **Web Development & Software Engineering**
-* 🎨 Interested in **UI/UX & Front-End Development**
-* 🌱 Currently learning **Laravel, PHP, MySQL, Next.js & Full-Stack Development**
-* 🛠️ Building projects for my **portfolio**
-* 🎯 Future goal: become a **Software Engineer**
+### Linkedin 
+<p>
+  <a href="https://www.linkedin.com/in/hilyatul-aulia-5217a038b/">Hilyatul Aulia</a>
+</p>
+
+
 
 ---
 
@@ -62,16 +62,6 @@ Currently, I'm focusing on **Web Development, UI/UX Design, and Full-Stack Devel
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonelliaven&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/moonelliaven">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
