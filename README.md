@@ -1,4 +1,4 @@
-# Hi, I'm Hanzen 👋
+# Hi, I'm Hanzen 
 
 ### `Software Engineering Student` · `Web Developer` · `UI/UX Enthusiast`
 
@@ -27,7 +27,7 @@ Currently, I'm focusing on **Web Development, UI/UX Design, and Full-Stack Devel
 
 **Database**
 
-![Database](https://skillicons.dev/icons?i=mysql,postgres,supabase)
+![Database](https://skillicons.dev/icons?i=mysql,supabase)
 
 **Tools & Design**
 
