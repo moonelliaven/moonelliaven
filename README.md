@@ -78,6 +78,17 @@ A memory-focused web project designed around meaningful moments and visual story
 
 ---
 
+## .gitignore team
+  <div align="center"> 
+    <img src="gitignoreteam.png" width="80%" >
+  </div>
+  
+
+### Chaotic Team that exist <i>somehow...</i>
+- [bluebleaze](https://github.com/bluebleaze) 
+- [inihelta](https://github.com/inihelta)
+- [moonelliaven](https://github.com/moonelliaven)
+
 ## 🎯 Currently
 
 * 🌱 Learning **Full-Stack Development**
