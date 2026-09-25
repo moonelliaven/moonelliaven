@@ -80,7 +80,7 @@ A memory-focused web project designed around meaningful moments and visual story
 
 ## .gitignore team
   <div align="center"> 
-    <img src="gitignoreteam.png" width="80%" >
+    <img src="gitignore.png" width="80%" >
   </div>
   
 
